@@ -547,8 +547,7 @@ class RawFileBrowser extends React.Component {
                 href="#"
                 role="button"
               >
-                {icons.Delete}
-                &nbsp;Delete
+                Pull
               </a>
             </li>
           )
