@@ -537,7 +537,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	          var actionText = void 0;
 	          switch (selectedItem.action) {
 	            case 'delete':
-	              actionText = 'Pulling ...';
+	              actionText = 'Deleting ...';
 	              break;
 
 	            case 'rename':
@@ -602,7 +602,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	                  href: '#',
 	                  role: 'button'
 	                },
-					'Pull'
+	                'Pull'
 	              )
 	            ));
 	          }
@@ -1843,7 +1843,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	              _react2.default.createElement(
 	                'button',
 	                { type: 'submit' },
-	                'Confirm Pull'
+	                'Confirm Deletion'
 	              )
 	            )
 	          );
@@ -2163,7 +2163,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	            _react2.default.createElement(
 	              'button',
 	              { type: 'submit' },
-	              'Confirm Pull'
+	              'Confirm Deletion'
 	            )
 	          )
 	        );
@@ -2381,7 +2381,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	            _react2.default.createElement(
 	              'button',
 	              { type: 'submit' },
-	              'Confirm Pull'
+	              'Confirm Deletion'
 	            )
 	          )
 	        );
@@ -2835,7 +2835,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	            _react2.default.createElement(
 	              'button',
 	              { type: 'submit' },
-	              'Confirm Pull'
+	              'Confirm Deletion'
 	            )
 	          )
 	        );
