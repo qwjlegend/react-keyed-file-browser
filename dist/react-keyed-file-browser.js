@@ -847,7 +847,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	              contents = _react2.default.createElement(
 	                'p',
 	                { className: 'empty' },
-	                'No files.'
+	                'Loading...'
 	              );
 	            }
 	          } else {
@@ -974,7 +974,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	}, _class.defaultProps = {
 	  showActionBar: true,
 	  canFilter: true,
-	  noFilesMessage: 'No files.',
+	  noFilesMessage: 'Loading...',
 
 	  group: _groupers.GroupByFolder,
 	  sort: _sorters.SortByName,

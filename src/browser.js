@@ -95,7 +95,7 @@ class RawFileBrowser extends React.Component {
   static defaultProps = {
     showActionBar: true,
     canFilter: true,
-    noFilesMessage: 'No files.',
+    noFilesMessage: 'Loading...',
 
     group: GroupByFolder,
     sort: SortByName,
@@ -757,7 +757,7 @@ class RawFileBrowser extends React.Component {
           if (this.state.nameFilter) {
             contents = (<p className="empty">No files matching "{this.state.nameFilter}"</p>)
           } else {
-            contents = (<p className="empty">No files.</p>)
+            contents = (<p className="empty">Loading...</p>)
           }
         } else {
           let more
