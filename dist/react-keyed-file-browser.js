@@ -1843,7 +1843,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	              _react2.default.createElement(
 	                'button',
 	                { type: 'submit' },
-	                'Confirm Deletion'
+	                'Confirm Pull'
 	              )
 	            )
 	          );
@@ -2163,7 +2163,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	            _react2.default.createElement(
 	              'button',
 	              { type: 'submit' },
-	              'Confirm Deletion'
+	              'Confirm Pull'
 	            )
 	          )
 	        );
@@ -2381,7 +2381,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	            _react2.default.createElement(
 	              'button',
 	              { type: 'submit' },
-	              'Confirm Deletion'
+	              'Confirm Pull'
 	            )
 	          )
 	        );
@@ -2835,7 +2835,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	            _react2.default.createElement(
 	              'button',
 	              { type: 'submit' },
-	              'Confirm Deletion'
+	              'Confirm Pull'
 	            )
 	          )
 	        );

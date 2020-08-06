@@ -39,7 +39,7 @@ class RawTableFile extends BaseFile {
           </a>
           <div>
             <button type="submit">
-              Confirm Deletion
+              Confirm Pull 
             </button>
           </div>
         </form>

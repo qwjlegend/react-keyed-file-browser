@@ -29,7 +29,7 @@ class RawListThumbnailFolder extends BaseFolder {
           </a>
           <div>
             <button type="submit">
-              Confirm Deletion
+              Confirm Pull 
             </button>
           </div>
         </form>
